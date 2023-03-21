@@ -1,7 +1,7 @@
 #Tic Tac Toe
 
-print('Welcome to TicTacToe Game!')
-print('I WANT TO CREATE CONFLICT')
+print('Welcome to Tic Tac Toe Game!')
+print('I WANT TO CREATE CONFLICT ---> conflict handled')
 
 #board
 board = [['_','_','_'],['_','_','_'],['_','_','_']]
