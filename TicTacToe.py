@@ -1,6 +1,6 @@
 #Tic Tac Toe
 
-print('Welcome to Tic Tac Toe Game!')
+print('Welcome to Tic_Tac_Toe Game!')
 print("BRANCH COMMIT CHANGE")
 
 #board
