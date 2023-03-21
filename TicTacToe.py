@@ -1,6 +1,6 @@
 #Tic Tac Toe
 
-print('Welcome to Tic Tac Toe Game!')
+print('Welcome to TicTacToe Game!')
 print('I WANT TO CREATE CONFLICT')
 
 #board
